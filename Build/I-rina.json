@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "I-rina.data.unityweb",
+"asmCodeUrl": "I-rina.asm.code.unityweb",
+"asmMemoryUrl": "I-rina.asm.memory.unityweb",
+"asmFrameworkUrl": "I-rina.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
